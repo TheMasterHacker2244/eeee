@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMasterHacker2244/eeee/main/.gitignore",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMasterHacker2244/eeee/main/pro.lua",true))()
 
 -- init
 local player = game.Players.LocalPlayer
